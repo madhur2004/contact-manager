@@ -128,11 +128,6 @@ This project includes GitHub Actions workflow for:
 * Automated dependency installation
 * Build verification
 
----
-
-## 📸 Screenshots
-
-> *(Add screenshots here to make repo more attractive)*
 
 ---
 
