@@ -116,8 +116,8 @@ VITE_API_URL=http://localhost:5000
 
 ##  Deployment
 
-* Frontend: Vercel / Netlify
-* Backend: Render / Railway
+* Frontend: Vercel 
+* Backend: Render 
 
 ---
 
