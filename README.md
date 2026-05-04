@@ -7,7 +7,7 @@ This application allows users to efficiently manage contacts with a clean UI, sc
 
 ##  Live Demo
 
-> *(Add your deployed link here after hosting)*
+> 
 
 * Frontend: https://contact-manager-three-drab.vercel.app/
 * Backend API: https://contact-manager-vx5i.onrender.com/api/contacts
