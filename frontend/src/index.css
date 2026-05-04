@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+/* 🔥 Custom dark variant for Tailwind v4 */
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+
+/* 🌞 Light Theme */
+:root {
+  --bg: #ffffff;
+  --text: #111827;
+}
+
+/* 🌙 Dark Theme */
+[data-theme="dark"] {
+  --bg: #111827;
+  --text: #ffffff;
+}
